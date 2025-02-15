@@ -1,0 +1,65 @@
+*{
+    color: white;
+}
+div{
+   
+    margin-top: 350px;
+    text-align: center;
+    color:white;
+    
+}
+#red{
+    background: rgba(255, 0, 0, 0.758);
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 3px;
+    border:none
+
+    
+}
+#blue{
+    background: rgba(38, 38, 252, 0.729);
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border:none
+}
+#green{
+    background-color: rgba(18, 223, 18, 0.758);
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border:none
+}
+#green:hover{
+    min-height: 2rem;
+    min-width: 12%;
+     
+
+}
+#red:hover{
+    min-height: 2rem;
+    min-width: 12%;
+     
+
+}
+#blue:hover{
+    min-height: 2rem;
+    min-width: 12%;
+     
+
+}
+
+
+    
+
+
